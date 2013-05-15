@@ -9,3 +9,5 @@ The Government is releasing public data to help people understand how government
 # What's available?
 
 There are over 9,000 datasets available, from all central government departments and a number of other public sector bodies and local authorities. Is data just public information? Not really. From data.gov.uk, you can access the raw data driving government forward. This can then be used by people to build useful applications that help society, or investigate how effective policy changes have been over time.
+
+<a href="{{ site.prose_url }}#{{ site.org_name }}/{{ site.repo_name }}/edit/{{ site.branch }}/{{ page.filename }}">Help Improve this Content</a>

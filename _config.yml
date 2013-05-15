@@ -2,10 +2,10 @@
 title: Test Pages
 description: "DGU Test Pages"
 url: http://datagovuk.github.io/testpages/
-repo_name: datagovuk.github.io
+repo_name: testpages
 branch: master
 
 #global settings, no need to change these
-root_url: http://project-open-data.github.io
-org_name: project-open-data
-prose_url: http://project-open-data.github.io/contribute/
+root_url: http://datagovuk.github.io
+org_name: datagovuk
+prose_url: http://prose.io/
