@@ -1,0 +1,11 @@
+#document settings
+title: Test Pages
+description: "DGU Test Pages"
+url: http://datagovuk.github.io/testpages/
+repo_name: datagovuk.github.io
+branch: master
+
+#global settings, no need to change these
+root_url: http://project-open-data.github.io
+org_name: project-open-data
+prose_url: http://project-open-data.github.io/contribute/
