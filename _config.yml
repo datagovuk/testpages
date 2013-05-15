@@ -3,7 +3,7 @@ title: Test Pages
 description: "DGU Test Pages"
 url: http://datagovuk.github.io/testpages/
 repo_name: testpages
-branch: master
+branch: gh-pages
 
 #global settings, no need to change these
 root_url: http://datagovuk.github.io
